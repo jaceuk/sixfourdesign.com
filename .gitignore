@@ -21,3 +21,6 @@
 wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
+
+# Ignore everything in the "plugins" folder except the plugins listed.
+wp-content/plugins/
